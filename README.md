@@ -14,7 +14,7 @@ dominate
 ---
 
 To use the script start it from a terminal with command
-[Cool name] [folder path to where you galleries are]
+Local_gallery_1.0.0.exe [folder path to where you galleries are]
 
 ex py C:\folder\Local_gallery_1.0.0.py C:\galleries
 
