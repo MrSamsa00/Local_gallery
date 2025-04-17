@@ -51,3 +51,11 @@ Supported file formats:
 .jpg, .jpeg, .png, .webp, .gif*, .bmp
 
 *only displays the first frame of the gif.
+
+---
+Preview
+![Pre_163820](https://github.com/user-attachments/assets/013ead00-4727-47aa-b3c2-831a31112dbd)
+
+
+Solo
+![solo_164000](https://github.com/user-attachments/assets/8a89799c-5c92-465f-8f24-ffb1c70b9f82)
