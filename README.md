@@ -15,21 +15,29 @@ dominate
 
 To use the script start it from a terminal with command
 [Cool name] [folder path to where you galleries are]
+
 ex py C:\folder\Local_gallery_1.0.0.py C:\galleries
+
 or C:\folder\Local_gallery_1.0.0.exe C:\galleries
 
 Use flag -l 0-2 for what you type of galleries you want. 0 is default.
 0 = preview, 1 = solo, 2 = preview and solo. 
+
 ex py C:\folder\Local_gallery_1.0.0.py -l 2 C:\galleries
+
 or C:\folder\Local_gallery_1.0.0.exe -l 2 C:\galleries
 
 Use flag -e to save errors to a log file in the folder that the script runs from.
+
 ex py C:\folder\Local_gallery_1.0.0.py -e C:\galleries
+
 or C:\folder\Local_gallery_1.0.0.exe -e C:\galleries
 
 Use flag -s to switch if extra safety checks should be used or not, 1 is default.
 Switching the checks to 0 speed up the gallery build time but can lead to errors.
+
 ex py C:\folder\Local_gallery_1.0.0.py -s 0 C:\galleries
+
 or C:\folder\Local_gallery_1.0.0.exe -s 0 C:\galleries
 ---
 
